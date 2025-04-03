@@ -3,7 +3,7 @@
 
 int main() {
     double a, b, c;
-    char strNotification[1024] = "You've just entered:\n";
+    char strNotification[1024] = "You've just pushed:\n";
 
     // Nhập các giá trị từ người dùng
     printf("Please input a: ");
